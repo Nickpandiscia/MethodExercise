@@ -1,0 +1,8 @@
+C:\Users\npand\repos\MethodExercise\MethodExercise\bin\Debug\MethodExercise.exe.config
+C:\Users\npand\repos\MethodExercise\MethodExercise\bin\Debug\MethodExercise.exe
+C:\Users\npand\repos\MethodExercise\MethodExercise\bin\Debug\MethodExercise.pdb
+C:\Users\npand\repos\MethodExercise\MethodExercise\obj\Debug\MethodExercise.csproj.AssemblyReference.cache
+C:\Users\npand\repos\MethodExercise\MethodExercise\obj\Debug\MethodExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\npand\repos\MethodExercise\MethodExercise\obj\Debug\MethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\npand\repos\MethodExercise\MethodExercise\obj\Debug\MethodExercise.exe
+C:\Users\npand\repos\MethodExercise\MethodExercise\obj\Debug\MethodExercise.pdb
